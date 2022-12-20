@@ -6,7 +6,6 @@ export default function Home() {
     <main>
       <Title>Cox Family</Title>
       <h1>Hello!</h1>
-      <Counter />
       <p>
         Trip recaps:
         <ul>
