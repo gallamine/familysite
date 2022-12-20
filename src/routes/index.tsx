@@ -10,6 +10,7 @@ export default function Home() {
         Trip recaps:
         <ul>
           <li>South Africa 2022 - coming soon</li>
+          <li>Alaska 2022 - coming soon</li>
             <li><a href="https://youtu.be/O4hEbNKEwp0">Family Trip to Main 2021</a></li>
             <li><a href="">Roanoke River Trip -- coming soon</a></li>
             <li><a href="https://youtu.be/imSFVfQeJU4">Arizona 2020</a></li>
