@@ -9,6 +9,7 @@ export default function Home() {
       <p>
         Trip recaps:
         <ul>
+            <li><a href="https://youtu.be/-Jw3DVaJygo">Baughman Family Beach Trip 2023</a></li>
             <li><a href="https://youtu.be/2Py6yws_wlQ">Camping in Jackson 2023</a></li>
             <li>South Africa 2022 - coming soon</li>
             <li><a href="https://youtu.be/l4VnKsMWWnY">Family Trip to Alaska 2022</a></li>
