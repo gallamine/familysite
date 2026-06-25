@@ -9,11 +9,11 @@ export default function Home() {
       <p>
         Trip recaps:
         <ul>
-            <li>England Trip 2024 - coming soon</li>
+            <li><a href="https://www.youtube.com/watch?v=uAQyy-7DFsU">England Trip 2024</a></li>
             <li><a href="https://youtu.be/pXW1QQ_rlZc">Texas Eclipse Trip 2024</a></li>
             <li><a href="https://youtu.be/-Jw3DVaJygo">Baughman Family Beach Trip 2023</a></li>
             <li><a href="https://youtu.be/2Py6yws_wlQ">Camping in Jackson 2023</a></li>
-            <li>South Africa 2022 - coming soon</li>
+            <li><a href="https://youtu.be/stWMXjQIX8w">South Africa 2022</a></li>
             <li><a href="https://youtu.be/l4VnKsMWWnY">Family Trip to Alaska 2022</a></li>
             <li><a href="https://youtu.be/O4hEbNKEwp0">Family Trip to Main 2021</a></li>
             <li><a href="https://youtu.be/imSFVfQeJU4">Arizona 2020</a></li>
